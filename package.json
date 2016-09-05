@@ -1,0 +1,15 @@
+{
+  "name": "webrtc-match-two",
+  "version": "1.0.0",
+  "description": "connects pairs of users over webrtc",
+  "repository": "https://github.com/stagas/webrtc-match-two",
+  "author": "stagas",
+  "license": "MIT",
+  "scripts": {
+    "test": "open test/index.html || xdg-open test/index.html"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}

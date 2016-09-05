@@ -1,0 +1,5 @@
+{
+  "name": "webrtc-match-two",
+  "description": "connects pairs of users over webrtc",
+  "repository": "https://github.com/stagas/webrtc-match-two"
+}
